@@ -86,6 +86,12 @@ export default {
 
 <style scoped lang="stylus">
 
+.select >>> .el-input__inner {
+    height: 50px;
+    line-height: 50px;
+
+}
+
 .account {
    /* height: 100%;
     width: 25px;
@@ -107,6 +113,7 @@ export default {
 
 .select
     margin: 20px;
+    width 400px
 
 
 
