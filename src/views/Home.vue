@@ -39,6 +39,7 @@ export default {
 
 <style scoped lang="stylus">
 
+
 .active {
     color: #21a467;
 }
